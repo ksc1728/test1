@@ -1,0 +1,9 @@
+.textbox{
+    border:2px solid black;
+    border-radius:4px;
+}
+.inner{
+    display:block;
+    align-items: center;
+    justify-content: center;
+}
